@@ -5,7 +5,7 @@ $(function() {
       $msg        = $('#msg');
   
   $btnAlert.click(function(){
-    alert('JavaScript 是一门伟大的编程语言！');
+    alert('JavaScript 是一门伟大的编程语言');
   });
 
   $btnPrompt.click(function(){
